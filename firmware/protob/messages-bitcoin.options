@@ -32,6 +32,7 @@ TxAck.TransactionType.TxInputType.address_n                 max_count:8
 TxAck.TransactionType.TxInputType.prev_hash                 max_size:32
 TxAck.TransactionType.TxInputType.script_sig                max_size:1650
 TxAck.TransactionType.TxInputType.prev_block_hash_bip115    max_size:32
+TxAck.TransactionType.TxInputType.particl_shared_secret     max_size:32
 
 TxAck.TransactionType.TxOutputType.address                  max_size:130
 TxAck.TransactionType.TxOutputType.address_n                max_count:8
